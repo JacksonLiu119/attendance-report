@@ -1,0 +1,11 @@
+# 本機原始出勤資料，不上傳 GitHub
+*.xlsx
+*.xls
+
+# 本機設定與依賴
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
